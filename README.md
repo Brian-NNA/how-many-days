@@ -1,6 +1,7 @@
 # how-many-days
 
 def how_many_days(month_number):
+
     """Returns the number of days in a month.
     WARNING: This function doesn't account for leap years!
     """
